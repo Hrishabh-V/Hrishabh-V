@@ -7,7 +7,10 @@
 - 🔭 I’m currently working on an **Image Processing and Gen AI** project
 - 🌱 I’m expanding my knowledge in **newer aspects of the Machine Learning niche**
 - 💬 Ask me about **Machine Learning**, **Deep Learning**, and **Python**
-- 📫 How to reach me: [hrishabh.v1@gmail.com](mailto:hrishabh.v1@gmail.com)
+- 📫 How to reach me: 
+  <a href="mailto:hrishabh.v1@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" width="20" height="20"/></a> [hrishabh.v1@gmail.com](mailto:hrishabh.v1@gmail.com), 
+  <a href="https://www.linkedin.com/in/hrishabhv/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="20" height="20"/></a> [LinkedIn](https://www.linkedin.com/in/hrishabhv/), 
+  <a href="https://hrishabh-v.github.io/"><img src="https://img.icons8.com/fluent/48/000000/internet.png" alt="Portfolio" width="20" height="20"/></a> [Portfolio](https://hrishabh-v.github.io/)
 - ⚡ Fun fact: I'm always eager to learn new technologies and implement innovative solutions!
 
 <h3 align="left">Languages and Tools:</h3>
