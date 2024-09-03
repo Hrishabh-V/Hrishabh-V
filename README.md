@@ -16,7 +16,7 @@ Every project I work on is a mix of ideas, a bit of creativity, and a lot of han
       <img alt="Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Hrishabh-V?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-
+<br>
 
 ### 🧰 Languages and Tools
 
@@ -33,7 +33,7 @@ Every project I work on is a mix of ideas, a bit of creativity, and a lot of han
 <img align="left" alt="Hadoop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="scikit-learn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-
+<br>
 
 
 
