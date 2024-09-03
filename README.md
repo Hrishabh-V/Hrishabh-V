@@ -1,40 +1,43 @@
-<h1 align="center">Hi, I'm Hrishabh V👋</h1>
+# 🥷🏻 Hrishabh V
 
-<h3 align="center">Machine Learning Engineer | Data Science Enthusiast</h3>
+**`Digital Craftsman (ML Developer/Data Scientist)`**
 
-<h3 align="left">About Me:</h3>
-
-- 🔭 I’m currently working on an **Image Processing and Gen AI** project
-- 🌱 I’m expanding my knowledge in **newer aspects of the Machine Learning niche**
-- 💬 Ask me about **Machine Learning**, **Deep Learning**, and **Python**
-- 📫 How to reach me: 
-  <a href="mailto:hrishabh.v1@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" width="20" height="20"/></a> [hrishabh.v1@gmail.com](mailto:hrishabh.v1@gmail.com), 
-  <a href="https://www.linkedin.com/in/hrishabhv/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="20" height="20"/></a> [LinkedIn](https://www.linkedin.com/in/hrishabhv/), 
-  <a href="https://hrishabh-v.github.io/"><img src="https://img.icons8.com/fluent/48/000000/internet.png" alt="Portfolio" width="20" height="20"/></a> [Portfolio](https://hrishabh-v.github.io/)
-- ⚡ Fun fact: I'm always eager to learn new technologies and implement innovative solutions!
-
-<h3 align="left">Languages and Tools:</h3>
+An indie ML developer with a B.Tech in AI and Data Science. I love taking inspiration from different sources, adding my own twist, and building practical solutions with code. Whether it's experimenting with AI models or developing useful tools, I enjoy piecing things together to create something unique.
+Every project I work on is a mix of ideas, a bit of creativity, and a lot of hands-on learning. I'm here to explore, build, and share what I create with others who are just as passionate about technology.
 
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-
+   <a href="https://www.linkedin.com/in/hrishabhv/">
+      <img alt="LinkedIn Profile" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="https://hrishabh-v.github.io/">
+      <img alt="Web" title="Check out my Website" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+   <a href="https://github.com/Hrishabh-V?tab=followers">
+      <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Hrishabh-V?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <a href="https://github.com/Hrishabh-V?tab=repositories&sort=stargazers">
+      <img alt="Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Hrishabh-V?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 
-<!---
-Hrishabh-V/Hrishabh-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+<img align="left" alt="Hadoop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img align="left" alt="scikit-learn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+
+
+
+
+### 📊 Stats
+
+![Hrishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrishabh-V&show_icons=true&theme=default)
+
