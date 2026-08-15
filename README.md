@@ -1,9 +1,12 @@
 # 🥷🏻 Hrishabh V
 
-**`Digital Craftsman (ML Developer/Data Scientist)`**
+**`ML Developer / AI Engineer`**
 
-An indie ML developer with a B.Tech in AI and Data Science. I love taking inspiration from different sources, adding my own twist, and building practical solutions with code. Whether it's experimenting with AI models or developing useful tools, I enjoy piecing things together to create something unique.
-Every project I work on is a mix of ideas, a bit of creativity, and a lot of hands-on learning. I'm here to explore, build, and share what I create with others who are just as passionate about technology.
+ML developer by obsession, enterprise engineer by employment.
+
+I have a B.Tech in Artificial Intelligence and Data Science, and I spend most of my time building practical things with Python, machine learning, deep learning, and LLMs. By day, I work with enterprise integrations, distributed systems, APIs, and production incidents — by choice, I make models learn things and occasionally make LLMs do things they probably shouldn't.
+
+I like taking ideas from different places, adding my own twist, and turning them into something that actually works. Some projects are serious, some are experiments, and some started with a very questionable "what if..." — but all of them involve a lot of code, debugging, and learning.
 
 <p align="left">
    <a href="https://www.linkedin.com/in/hrishabhv/">
@@ -18,28 +21,57 @@ Every project I work on is a mix of ideas, a bit of creativity, and a lot of han
 
 <br>
 
+
+---
+
+### 🧠 What I Build
+
+- 🤖 **AI & Agentic AI** — LLM applications, AI agents, tool calling and workflow orchestration
+- 🧠 **Machine Learning** — model training, evaluation, clustering, classification and ML pipelines
+- 👁️ **Computer Vision** — deepfake detection, image processing and super-resolution
+- ⚡ **ML APIs** — FastAPI-based inference services and model-serving workflows
+- 🛠️ **Production Systems** — APIs, microservices, enterprise integrations and distributed systems
+- ☁️ **Cloud & Data** — AWS services, databases, ETL and systems that occasionally decide to fail at 2 AM
+
+---
+
+
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="scikit-learn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-<img align="left" alt="Evidently AI" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/75932461?s=200&v=4" />
+<img align="left" alt="Scikit-learn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+
 <img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" />
-<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-<img align="left" alt="Hadoop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<br>
 <br>
 
+**ML / DL:** Scikit-learn · TensorFlow · PyTorch · Pandas · NumPy · OpenCV · HDBSCAN · Transformers
+
+**MLOps:** MLflow · Evidently · FastAPI
+
+**AI / GenAI:** LLMs · AI Agents · Prompt Engineering · Tool Calling · Workflow Orchestration
+
+**Backend:** Java · Spring Boot · REST APIs · SOAP APIs · Microservices
+
+**Cloud / Integration:** AWS S3 · AWS Lambda · CloudWatch · Datadog · Dell Boomi · Oracle SOA · Oracle Database · ODI
 
 
-### 📊 Stats
 
-![Hrishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrishabh-V&show_icons=true&theme=default)
+---
+### 📊 GitHub
 
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hrishabh-V&theme=default" />
+</p>
+
+---
